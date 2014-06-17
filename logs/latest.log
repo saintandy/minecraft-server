@@ -44,3 +44,6 @@
 [16:21:09] [Server thread/INFO]: Teofil burned to death
 [16:21:41] [Server thread/INFO]: Teleported Teofil to Vlad
 [16:21:50] [Server thread/INFO]: Teleported Vlad to Iustin
+[16:38:57] [Server thread/INFO]: <Teofil> wvreau sa ma culc
+[16:39:26] [Server thread/INFO]: Teofil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:39:26] [Server thread/INFO]: Teofil left the game
