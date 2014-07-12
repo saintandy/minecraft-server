@@ -1,0 +1,22 @@
+2014-07-12 16:20:42 [INFO] Starting minecraft server version 1.5.2
+2014-07-12 16:20:42 [INFO] Loading properties
+2014-07-12 16:20:42 [INFO] Default game type: SURVIVAL
+2014-07-12 16:20:42 [INFO] Generating keypair
+2014-07-12 16:20:42 [INFO] Starting Minecraft server on 25.95.99.114:25565
+2014-07-12 16:20:42 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-07-12 16:20:42 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-07-12 16:20:42 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-07-12 16:20:42 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-07-12 16:20:42 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2014-07-12 16:20:42 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2014-07-12 16:20:42 [INFO] Preparing level "world"
+2014-07-12 16:20:42 [INFO] Preparing start region for level 0
+2014-07-12 16:20:43 [INFO] Done (0.910s)! For help, type "help" or "?"
+2014-07-12 16:22:24 [INFO] Semjus[/25.99.233.102:51469] logged in with entity id 162 at (108.5, 70.0, 167.5)
+2014-07-12 16:22:25 [INFO] SaintJimmy[/25.95.99.114:52639] logged in with entity id 1128 at (94.5, 70.0, 157.5)
+2014-07-12 16:24:51 [INFO] Teleported Semjus to SaintJimmy
+2014-07-12 16:24:58 [INFO] That player cannot be found
+2014-07-12 16:26:46 [INFO] Teleported Semjus to SaintJimmy
+2014-07-12 16:28:33 [INFO] SaintJimmy lost connection: disconnect.quitting
+2014-07-12 16:28:35 [INFO] Semjus lost connection: disconnect.quitting
+2014-07-12 16:28:52 [INFO] Stopping server
