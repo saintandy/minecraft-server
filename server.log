@@ -62,3 +62,9 @@
 2014-07-12 17:54:47 [INFO] Teleported A to B
 2014-07-12 18:04:21 [INFO] A was slain by Spider
 2014-07-12 18:04:24 [INFO] Teleported A to B
+2014-07-12 18:27:18 [WARNING] B moved wrongly!
+2014-07-12 18:28:18 [INFO] B lost connection: disconnect.quitting
+2014-07-12 18:28:45 [INFO] A lost connection: disconnect.quitting
+2014-07-12 18:29:20 [INFO] B[/25.99.233.102:52589] logged in with entity id 144341 at (119.38755247504757, 61.0, 270.30013548044764)
+2014-07-12 18:29:43 [INFO] B lost connection: disconnect.quitting
+2014-07-12 18:30:17 [INFO] B[/25.99.233.102:52602] logged in with entity id 144922 at (119.69999998807907, 61.0, 271.28678983032984)
