@@ -1,21 +1,8 @@
-[16:01:11] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[16:01:11] [Server thread/INFO]: Loading properties
-[16:01:11] [Server thread/INFO]: Default game type: SURVIVAL
-[16:01:11] [Server thread/INFO]: Generating keypair
-[16:01:11] [Server thread/INFO]: Starting Minecraft server on 25.28.77.110:25565
-[16:01:11] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[16:01:11] [Server thread/WARN]: The exception was: java.net.BindException: Can't assign requested address
-[16:01:11] [Server thread/WARN]: Perhaps a server is already running on that port?
-[16:03:50] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
-[16:03:52] [Server thread/INFO]: You must specify which player you wish to perform this action on.
-[16:03:56] [Server thread/INFO]: An unknown error occurred while attempting to perform this command
-[16:03:56] [Server thread/ERROR]: Couldn't process command: 'tp vlad vlad2'
-java.lang.NullPointerException
-	at y.d(SourceFile:117) ~[minecraft_server.1.7.9.jar:?]
-	at bv.b(SourceFile:33) ~[minecraft_server.1.7.9.jar:?]
-	at z.a(SourceFile:59) [minecraft_server.1.7.9.jar:?]
-	at ls.aB(SourceFile:308) [minecraft_server.1.7.9.jar:?]
-	at ls.a(SourceFile:238) [minecraft_server.1.7.9.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:377) [minecraft_server.1.7.9.jar:?]
-	at li.run(SourceFile:628) [minecraft_server.1.7.9.jar:?]
-[16:05:07] [Server Shutdown Thread/INFO]: Stopping server
+[16:05:21] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[16:05:21] [Server thread/INFO]: Loading properties
+[16:05:21] [Server thread/INFO]: Default game type: SURVIVAL
+[16:05:21] [Server thread/INFO]: Generating keypair
+[16:05:22] [Server thread/INFO]: Starting Minecraft server on 25.28.77.110:25565
+[16:05:22] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[16:05:22] [Server thread/WARN]: The exception was: java.net.BindException: Can't assign requested address
+[16:05:22] [Server thread/WARN]: Perhaps a server is already running on that port?
