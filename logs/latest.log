@@ -1,67 +1,10 @@
-[15:06:51] [Server thread/INFO]: Starting minecraft server version 1.7.9
-[15:06:51] [Server thread/INFO]: Loading properties
-[15:06:51] [Server thread/INFO]: Default game type: SURVIVAL
-[15:06:51] [Server thread/INFO]: Generating keypair
-[15:06:51] [Server thread/INFO]: Starting Minecraft server on 25.28.77.110:25565
-[15:06:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:06:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:06:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:06:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:06:51] [Server thread/INFO]: Preparing level "world"
-[15:06:52] [Server thread/INFO]: Preparing start region for level 0
-[15:06:53] [Server thread/INFO]: Preparing spawn area: 94%
-[15:06:53] [Server thread/INFO]: Done (1.132s)! For help, type "help" or "?"
-[15:25:38] [Server thread/INFO]: Vlad[/25.28.77.110:51078] logged in with entity id 163 at (-375.18568986584114, 79.5, 86.36126827756048)
-[15:25:38] [Server thread/INFO]: Vlad joined the game
-[15:32:56] [Server thread/INFO]: Iustin[/25.77.50.156:50750] logged in with entity id 11185 at (-378.16956142586866, 80.5, 85.52148702681258)
-[15:32:56] [Server thread/INFO]: Iustin joined the game
-[15:52:07] [Server thread/INFO]: Teofil[/25.132.24.93:1219] logged in with entity id 36946 at (-379.0738227172143, 89.0, 85.03244587652028)
-[15:52:07] [Server thread/INFO]: Teofil joined the game
-[15:52:31] [Server thread/INFO]: Teofil tried to swim in lava
-[15:52:49] [Server thread/INFO]: Teofil tried to swim in lava
-[15:53:09] [Server thread/INFO]: Teofil tried to swim in lava
-[15:53:38] [Server thread/INFO]: /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
-[15:53:41] [Server thread/INFO]: Teleported Teofil to Vlad
-[15:56:46] [Server thread/INFO]: Teofil was slain by Zombie
-[15:57:08] [Server thread/INFO]: Teofil was burnt to a crisp whilst fighting Skeleton
-[15:57:37] [Server thread/INFO]: Teofil burned to death
-[15:57:48] [Server thread/INFO]: Teleported Teofil to Vlad
-[15:58:05] [Server thread/INFO]: Teleported Teofil to Vlad
-[15:59:34] [Server thread/INFO]: Teofil was slain by Zombie
-[15:59:34] [Server thread/INFO]: Teofil has just earned the achievement [Monster Hunter]
-[16:00:25] [Server thread/INFO]: Teofil burned to death
-[16:01:42] [Server thread/INFO]: Teofil was shot by Skeleton
-[16:02:18] [Server thread/INFO]: Teleported Teofil to Vlad
-[16:11:50] [Server thread/INFO]: Teofil hit the ground too hard
-[16:13:09] [Server thread/INFO]: Teofil tried to swim in lava
-[16:15:38] [Server thread/INFO]: Teofil fell from a high place
-[16:18:31] [Server thread/INFO]: Teofil was killed by Witch using magic
-[16:18:50] [Server thread/INFO]: Teofil tried to swim in lava
-[16:19:16] [Server thread/INFO]: Teofil was slain by Spider
-[16:19:35] [Server thread/INFO]: Teofil tried to swim in lava
-[16:20:03] [Server thread/INFO]: Teofil was blown up by Creeper
-[16:20:22] [Server thread/INFO]: Teofil burned to death
-[16:21:09] [Server thread/INFO]: Teofil burned to death
-[16:21:41] [Server thread/INFO]: Teleported Teofil to Vlad
-[16:21:50] [Server thread/INFO]: Teleported Vlad to Iustin
-[16:38:57] [Server thread/INFO]: <Teofil> wvreau sa ma culc
-[16:39:26] [Server thread/INFO]: Teofil lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[16:39:26] [Server thread/INFO]: Teofil left the game
-[16:51:13] [Server thread/INFO]: 'standard' is not a valid number
-[16:55:16] [Server thread/INFO]: Teleported Iustin to Vlad
-[16:58:08] [Server thread/INFO]: 'standard' is not a valid number
-[16:59:53] [Server thread/INFO]: 'standard' is not a valid number
-[17:01:09] [Server thread/INFO]: Iustin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:01:09] [Server thread/INFO]: Iustin left the game
-[17:02:37] [Server thread/INFO]: Vlad was slain by Zombie
-[17:02:43] [Server thread/INFO]: Vlad lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[17:02:43] [Server thread/INFO]: Vlad left the game
-[17:04:32] [Server thread/INFO]: Stopping server
-[17:04:32] [Server thread/INFO]: Saving players
-[17:04:32] [Server thread/INFO]: Saving worlds
-[17:04:32] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[17:04:32] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[17:04:32] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[17:04:32] [Server Shutdown Thread/INFO]: Stopping server
-[17:04:32] [Server Shutdown Thread/INFO]: Saving players
-[17:04:32] [Server Shutdown Thread/INFO]: Saving worlds
+[15:32:34] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[15:32:34] [Server thread/INFO]: Loading properties
+[15:32:34] [Server thread/INFO]: Default game type: SURVIVAL
+[15:32:34] [Server thread/INFO]: Generating keypair
+[15:32:35] [Server thread/INFO]: Starting Minecraft server on 25.28.77.110:25565
+[15:32:35] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[15:32:35] [Server thread/WARN]: The exception was: java.net.BindException: Can't assign requested address
+[15:32:35] [Server thread/WARN]: Perhaps a server is already running on that port?
+[15:34:51] [Server thread/INFO]: Stopping server
+[15:34:51] [Server Shutdown Thread/INFO]: Stopping server
