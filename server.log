@@ -20,3 +20,26 @@
 2014-07-12 16:28:33 [INFO] SaintJimmy lost connection: disconnect.quitting
 2014-07-12 16:28:35 [INFO] Semjus lost connection: disconnect.quitting
 2014-07-12 16:28:52 [INFO] Stopping server
+2014-07-12 16:29:11 [INFO] Starting minecraft server version 1.5.2
+2014-07-12 16:29:11 [INFO] Loading properties
+2014-07-12 16:29:11 [INFO] Default game type: SURVIVAL
+2014-07-12 16:29:11 [INFO] Generating keypair
+2014-07-12 16:29:11 [INFO] Starting Minecraft server on 25.95.99.114:25565
+2014-07-12 16:29:11 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-07-12 16:29:11 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-07-12 16:29:11 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-07-12 16:29:11 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-07-12 16:29:11 [INFO] Preparing level "world"
+2014-07-12 16:29:11 [INFO] Preparing start region for level 0
+2014-07-12 16:29:12 [INFO] Preparing spawn area: 11%
+2014-07-12 16:29:13 [INFO] Preparing spawn area: 29%
+2014-07-12 16:29:14 [INFO] Preparing spawn area: 48%
+2014-07-12 16:29:15 [INFO] Preparing spawn area: 68%
+2014-07-12 16:29:16 [INFO] Preparing spawn area: 84%
+2014-07-12 16:29:17 [INFO] Preparing spawn area: 99%
+2014-07-12 16:29:17 [INFO] Done (6.249s)! For help, type "help" or "?"
+2014-07-12 16:29:19 [INFO] A[/25.95.99.114:52703] logged in with entity id 418 at (-2.5, 64.0, 253.5)
+2014-07-12 16:29:32 [INFO] A[/25.99.233.102:51519] logged in with entity id 5619 at (-1.6303755040586465, 64.0, 258.32661948256145)
+2014-07-12 16:29:32 [INFO] A lost connection: disconnect.endOfStream
+2014-07-12 16:29:35 [INFO] A[/25.95.99.114:52710] logged in with entity id 5641 at (-1.6303755040586465, 64.0, 258.32661948256145)
+2014-07-12 16:30:35 [INFO] B[/25.99.233.102:51544] logged in with entity id 6909 at (-4.5, 64.0, 246.5)
