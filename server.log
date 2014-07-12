@@ -68,3 +68,12 @@
 2014-07-12 18:29:20 [INFO] B[/25.99.233.102:52589] logged in with entity id 144341 at (119.38755247504757, 61.0, 270.30013548044764)
 2014-07-12 18:29:43 [INFO] B lost connection: disconnect.quitting
 2014-07-12 18:30:17 [INFO] B[/25.99.233.102:52602] logged in with entity id 144922 at (119.69999998807907, 61.0, 271.28678983032984)
+2014-07-12 18:33:50 [INFO] B lost connection: disconnect.quitting
+2014-07-12 18:34:35 [INFO] Stopping server
+2014-07-12 18:34:35 [INFO] Saving players
+2014-07-12 18:34:35 [INFO] Closing listening thread
+2014-07-12 18:34:35 [INFO] Saving worlds
+2014-07-12 18:34:35 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-12 18:34:35 [INFO] Saving chunks for level 'world'/Nether
+2014-07-12 18:34:35 [INFO] Saving chunks for level 'world'/The End
+2014-07-12 18:34:35 [INFO] Stopping server
