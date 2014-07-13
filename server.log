@@ -97,3 +97,53 @@
 2014-07-12 19:09:26 [INFO] Saving chunks for level 'world'/Nether
 2014-07-12 19:09:26 [INFO] Saving chunks for level 'world'/The End
 2014-07-12 19:09:26 [INFO] Stopping server
+2014-07-13 13:31:10 [INFO] Starting minecraft server version 1.5.2
+2014-07-13 13:31:10 [INFO] Loading properties
+2014-07-13 13:31:10 [INFO] Default game type: SURVIVAL
+2014-07-13 13:31:10 [INFO] Generating keypair
+2014-07-13 13:31:10 [INFO] Starting Minecraft server on 25.95.99.114:25565
+2014-07-13 13:31:10 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-07-13 13:31:10 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-07-13 13:31:10 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-07-13 13:31:10 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-07-13 13:31:10 [INFO] Preparing level "world"
+2014-07-13 13:31:10 [INFO] Preparing start region for level 0
+2014-07-13 13:31:11 [INFO] Done (0.888s)! For help, type "help" or "?"
+2014-07-13 13:31:54 [INFO] Reafdaw[/25.99.233.102:49659] logged in with entity id 302 at (5.5, 64.0, 252.5)
+2014-07-13 13:32:38 [INFO] SaintJimmy[/25.95.99.114:54025] logged in with entity id 2610 at (5.5, 65.0, 242.5)
+2014-07-13 13:32:52 [INFO] That player cannot be found
+2014-07-13 13:32:59 [INFO] That player cannot be found
+2014-07-13 13:33:10 [INFO] Teleported SaintJimmy to Reafdaw
+2014-07-13 13:37:39 [INFO] Reafdaw lost connection: disconnect.quitting
+2014-07-13 13:38:15 [INFO] B[/25.99.233.102:49683] logged in with entity id 7992 at (119.59872413067255, 61.0, 268.4760566592161)
+2014-07-13 13:38:35 [INFO] B lost connection: disconnect.quitting
+2014-07-13 13:39:18 [INFO] Reafdaw[/25.99.233.102:49703] logged in with entity id 8530 at (121.39264571993047, 61.0, 272.02420457291714)
+2014-07-13 13:45:22 [INFO] SaintJimmy lost connection: disconnect.quitting
+2014-07-13 13:45:42 [INFO] IronMan[/25.95.99.114:54530] logged in with entity id 13377 at (-1.5, 64.0, 246.5)
+2014-07-13 13:45:57 [INFO] IronMan lost connection: disconnect.quitting
+2014-07-13 13:46:28 [INFO] iron-man[/25.95.99.114:54548] logged in with entity id 14859 at (11.5, 63.0, 259.5)
+2014-07-13 13:46:44 [INFO] iron-man lost connection: disconnect.endOfStream
+2014-07-13 13:48:17 [INFO] superman[/25.95.99.114:54602] logged in with entity id 17632 at (-2.5, 64.0, 254.5)
+2014-07-13 13:48:23 [INFO] superman lost connection: disconnect.quitting
+2014-07-13 13:48:41 [INFO] Reafdaw lost connection: disconnect.quitting
+2014-07-13 13:48:47 [INFO] Reafdaw[/25.95.99.114:54615] logged in with entity id 18387 at (106.64256028561663, 63.0, 256.573362957913)
+2014-07-13 13:49:08 [INFO] Reafdaw lost connection: disconnect.endOfStream
+2014-07-13 13:49:20 [INFO] Vampire[/25.95.99.114:54626] logged in with entity id 18664 at (9.5, 65.0, 243.5)
+2014-07-13 13:49:23 [INFO] Vampire lost connection: disconnect.quitting
+2014-07-13 13:49:36 [INFO] Dead[/25.99.233.102:49735] logged in with entity id 19127 at (9.5, 64.0, 246.5)
+2014-07-13 13:49:51 [INFO] Dead lost connection: disconnect.quitting
+2014-07-13 13:50:13 [INFO] jctitan[/25.95.99.114:54741] logged in with entity id 19374 at (7.5, 64.0, 261.5)
+2014-07-13 13:50:45 [INFO] Reafdaw[/25.99.233.102:49779] logged in with entity id 20055 at (110.59746132279561, 64.0, 262.004448616933)
+2014-07-13 13:50:57 [INFO] jctitan lost connection: disconnect.endOfStream
+2014-07-13 13:51:09 [INFO] Alkio[/25.95.99.114:54766] logged in with entity id 20865 at (0.5, 64.0, 248.5)
+2014-07-13 13:52:34 [INFO] Alkio lost connection: disconnect.quitting
+2014-07-13 13:52:46 [INFO] ironman[/25.95.99.114:54928] logged in with entity id 25264 at (-2.4103991726316654, 64.0, 248.0702490064891)
+2014-07-13 13:52:53 [INFO] ironman lost connection: disconnect.endOfStream
+2014-07-13 14:06:55 [INFO] 22616293[/25.95.99.114:55003] logged in with entity id 39170 at (0.5, 64.0, 251.5)
+2014-07-13 14:07:04 [INFO] 22616293 lost connection: disconnect.quitting
+2014-07-13 14:08:55 [INFO] Rhyuno[/25.95.99.114:55079] logged in with entity id 42596 at (-1.5, 64.0, 249.5)
+2014-07-13 14:09:07 [INFO] Rhyuno lost connection: disconnect.quitting
+2014-07-13 14:10:21 [INFO] zdog101[/25.95.99.114:55133] logged in with entity id 44663 at (3.5, 64.0, 243.5)
+2014-07-13 14:10:38 [INFO] Teleported zdog101 to Reafdaw
+2014-07-13 14:19:10 [INFO] zdog101 was shot by Skeleton
+2014-07-13 14:19:18 [INFO] zdog101 lost connection: disconnect.endOfStream
