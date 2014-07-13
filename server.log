@@ -147,3 +147,26 @@
 2014-07-13 14:10:38 [INFO] Teleported zdog101 to Reafdaw
 2014-07-13 14:19:10 [INFO] zdog101 was shot by Skeleton
 2014-07-13 14:19:18 [INFO] zdog101 lost connection: disconnect.endOfStream
+2014-07-13 14:20:34 [INFO] Starting minecraft server version 1.5.2
+2014-07-13 14:20:34 [INFO] Loading properties
+2014-07-13 14:20:34 [INFO] Default game type: SURVIVAL
+2014-07-13 14:20:34 [INFO] Generating keypair
+2014-07-13 14:20:34 [INFO] Starting Minecraft server on 25.95.99.114:25565
+2014-07-13 14:20:34 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-07-13 14:20:34 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-07-13 14:20:34 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-07-13 14:20:34 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-07-13 14:20:34 [INFO] Preparing level "world"
+2014-07-13 14:20:35 [INFO] Preparing start region for level 0
+2014-07-13 14:20:36 [INFO] Preparing spawn area: 11%
+2014-07-13 14:20:37 [INFO] Preparing spawn area: 28%
+2014-07-13 14:20:38 [INFO] Preparing spawn area: 47%
+2014-07-13 14:20:39 [INFO] Preparing spawn area: 66%
+2014-07-13 14:20:40 [INFO] Preparing spawn area: 80%
+2014-07-13 14:20:41 [INFO] Preparing spawn area: 92%
+2014-07-13 14:20:41 [INFO] Done (6.692s)! For help, type "help" or "?"
+2014-07-13 14:21:31 [INFO] Opped zdog101
+2014-07-13 14:21:36 [INFO] zdog101[/25.95.99.114:55453] logged in with entity id 3889 at (56.5, 64.0, 91.5)
+2014-07-13 14:22:59 [INFO] Reafdaw[/25.99.233.102:49844] logged in with entity id 6660 at (56.5, 64.0, 104.5)
+2014-07-13 14:23:05 [INFO] [zdog101: Teleported Reafdaw to zdog101]
+2014-07-13 14:29:49 [INFO] [zdog101: Teleported zdog101 to Reafdaw]
