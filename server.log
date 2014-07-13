@@ -77,3 +77,23 @@
 2014-07-12 18:34:35 [INFO] Saving chunks for level 'world'/Nether
 2014-07-12 18:34:35 [INFO] Saving chunks for level 'world'/The End
 2014-07-12 18:34:35 [INFO] Stopping server
+2014-07-12 19:09:07 [INFO] Starting minecraft server version 1.5.2
+2014-07-12 19:09:07 [INFO] Loading properties
+2014-07-12 19:09:07 [INFO] Default game type: SURVIVAL
+2014-07-12 19:09:07 [INFO] Generating keypair
+2014-07-12 19:09:07 [INFO] Starting Minecraft server on 25.95.99.114:25565
+2014-07-12 19:09:07 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-07-12 19:09:07 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-07-12 19:09:07 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-07-12 19:09:07 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-07-12 19:09:07 [INFO] Preparing level "world"
+2014-07-12 19:09:07 [INFO] Preparing start region for level 0
+2014-07-12 19:09:08 [INFO] Done (0.807s)! For help, type "help" or "?"
+2014-07-12 19:09:26 [INFO] Stopping server
+2014-07-12 19:09:26 [INFO] Saving players
+2014-07-12 19:09:26 [INFO] Closing listening thread
+2014-07-12 19:09:26 [INFO] Saving worlds
+2014-07-12 19:09:26 [INFO] Saving chunks for level 'world'/Overworld
+2014-07-12 19:09:26 [INFO] Saving chunks for level 'world'/Nether
+2014-07-12 19:09:26 [INFO] Saving chunks for level 'world'/The End
+2014-07-12 19:09:26 [INFO] Stopping server
